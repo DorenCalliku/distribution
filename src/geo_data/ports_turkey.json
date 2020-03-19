@@ -1,0 +1,4 @@
+{
+    "airport":[ "Adana", "Ankara", "Alanya", "Antalya", "Balıkesir", "Bursa", "Denizli", "Elazığ", "Erzurum", "Eskişehir", "Gaziantep", "Hatay","Isparta","İstanbul","İzmir", "Kars", "Kayseri", "Kocaeli", "Konya", "Kütahya", "Malatya", "Muğla", "Nevşehir", "Ordu" , "Samsun", "Sinop", "Sivas","Şanlıurfa", "Tekirdağ", "Trabzon", "Van","Zonguldak"],
+   "port":["İskenderun","Antalya","Mersin","İzmir", "İstanbul", "Trabzon", "Rize", "Ordu", "Bartın", "Zonguldak"]
+}
